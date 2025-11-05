@@ -1,1 +1,1 @@
-# GitTraining
+# GitTraining practice purpose
